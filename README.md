@@ -2,3 +2,7 @@
 Valami
 Valamik
 Valakik
+- kacsa
+- liba
+- disznó
+- tehén
